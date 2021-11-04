@@ -16,11 +16,15 @@ src\InventorySystem
   ![alt text](https://github.com/Aaron-Artz/Inventory-Tracker/blob/main/READMEpictures/MainScreen.PNG?raw=true)
   
   Add Part Screen
+  ![alt text](https://github.com/Aaron-Artz/Inventory-Tracker/blob/main/READMEpictures/AddPartScreen.PNG?raw=true)
   
   Modify Part Screen
+  ![alt text](https://github.com/Aaron-Artz/Inventory-Tracker/blob/main/READMEpictures/ModifyPartScreen.PNG?raw=true)
   
   Add Product Screen
+  ![alt text](https://github.com/Aaron-Artz/Inventory-Tracker/blob/main/READMEpictures/AddProductScreen.PNG?raw=true)
   
   Modify Product Screen
+  ![alt text](https://github.com/Aaron-Artz/Inventory-Tracker/blob/main/READMEpictures/ModifyProductScreen.PNG?raw=true)
   
   
