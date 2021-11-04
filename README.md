@@ -12,19 +12,19 @@ src\InventorySystem
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\Main.java - Main application file. The code sets the primary stage (MainScreen.fxml) then manually adds data to be used in the application.
   
   
-  Main Screen
+  Main Screen </br>
   ![alt text](https://github.com/Aaron-Artz/Inventory-Tracker/blob/main/READMEpictures/MainScreen.PNG?raw=true)
   
-  Add Part Screen
+  Add Part Screen </br>
   ![alt text](https://github.com/Aaron-Artz/Inventory-Tracker/blob/main/READMEpictures/AddPartScreen.PNG?raw=true)
   
-  Modify Part Screen
+  Modify Part Screen </br>
   ![alt text](https://github.com/Aaron-Artz/Inventory-Tracker/blob/main/READMEpictures/ModifyPartScreen.PNG?raw=true)
   
-  Add Product Screen
+  Add Product Screen </br>
   ![alt text](https://github.com/Aaron-Artz/Inventory-Tracker/blob/main/READMEpictures/AddProductScreen.PNG?raw=true)
   
-  Modify Product Screen
+  Modify Product Screen </br>
   ![alt text](https://github.com/Aaron-Artz/Inventory-Tracker/blob/main/READMEpictures/ModifyProductScreen.PNG?raw=true)
   
   
