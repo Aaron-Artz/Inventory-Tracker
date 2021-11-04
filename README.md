@@ -13,6 +13,7 @@ src\InventorySystem
   
   
   Main Screen
+  ![alt text](https://github.com/Aaron-Artz/Inventory-Tracker/blob/main/READMEpictures/MainScreen.PNG?raw=true)
   
   Add Part Screen
   
