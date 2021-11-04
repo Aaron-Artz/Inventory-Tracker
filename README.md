@@ -2,7 +2,7 @@
 An Inventory Management tool built using Java
 
 
-###File Overview: </br>
+# File Overview: </br>
 C482Project\src\InventorySystem
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\Controller - Contains matching .java and .fxml files that are used to implement the user interface as well as add the functionality to the page. </br>
